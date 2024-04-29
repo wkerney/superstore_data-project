@@ -5,7 +5,9 @@ The dataset I use is the "Superstore Sales" dataset from Kaggle. This dataset co
 ## Step 1: Project Planning
 ### Business Goals:
 Analyze sales trends, customer behavior, and product performance to support business decisions.
-Scope and Stakeholders: This project is focused on sales analytics for a retail company. Stakeholders include sales managers, marketing, and executives.
+
+### Scope and Stakeholders: 
+This project is focused on sales analytics for a retail company. Stakeholders include sales managers, marketing, and executives.
 ## Step 2: Technical Architecture
 Set up a new dataset for the project in Google BigQuery, and installed required libraries for data manipulation and BigQuery integration (dplyr, bigrquery, readr) in R.
 ## Step 3: Dimensional Modeling
