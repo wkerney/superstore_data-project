@@ -13,6 +13,7 @@ Set up a new dataset for the project in Google BigQuery, and installed required 
 In this project, the business process is "Sales."
 ### Define Fact and Dimension Tables:
 Fact Table: fact_sales containing sales transactions.
+
 Dimension Tables: dim_customers, dim_products, dim_time.
 ## Step 4: ETL Development
 ### Extract Data: 
